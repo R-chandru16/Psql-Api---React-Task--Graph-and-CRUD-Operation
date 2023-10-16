@@ -1,0 +1,185 @@
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.exe
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.deps.json
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.runtimeconfig.json
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.runtimeconfig.dev.json
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ref\ApiForSmallProject.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.pdb
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Humanizer.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.AssemblyReference.cache
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.AssemblyInfoInputs.cache
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.AssemblyInfo.cs
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.CoreCompileInputs.cache
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.MvcApplicationPartsAssemblyInfo.cs
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.MvcApplicationPartsAssemblyInfo.cache
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\ApiForSmallProject.StaticWebAssets.Manifest.cache
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\ApiForSmallProject.StaticWebAssets.xml
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\scopedcss\bundle\ApiForSmallProject.styles.css
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.RazorTargetAssemblyInfo.cache
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.CopyComplete
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.dll
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ref\ApiForSmallProject.dll
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.pdb
+D:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.genruntimeconfig.cache
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\appsettings.json
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\appsettings.json
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.exe
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.deps.json
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.runtimeconfig.json
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.runtimeconfig.dev.json
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ref\ApiForSmallProject.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.pdb
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Humanizer.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.AssemblyReference.cache
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.AssemblyInfoInputs.cache
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.AssemblyInfo.cs
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.CoreCompileInputs.cache
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.MvcApplicationPartsAssemblyInfo.cs
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.MvcApplicationPartsAssemblyInfo.cache
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\ApiForSmallProject.StaticWebAssets.Manifest.cache
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\ApiForSmallProject.StaticWebAssets.xml
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\scopedcss\bundle\ApiForSmallProject.styles.css
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.RazorTargetAssemblyInfo.cache
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.CopyComplete
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.dll
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ref\ApiForSmallProject.dll
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.pdb
+E:\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.genruntimeconfig.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\appsettings.json
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.StaticWebAssets.xml
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.exe
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.deps.json
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.runtimeconfig.json
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.runtimeconfig.dev.json
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\ApiForSmallProject.pdb
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Humanizer.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.AssemblyReference.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.AssemblyInfoInputs.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.AssemblyInfo.cs
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.CoreCompileInputs.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.MvcApplicationPartsAssemblyInfo.cs
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.MvcApplicationPartsAssemblyInfo.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\scopedcss\bundle\ApiForSmallProject.styles.css
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\ApiForSmallProject.StaticWebAssets.Manifest.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\ApiForSmallProject.StaticWebAssets.Pack.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\msbuild.ApiForSmallProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiForSmallProject.props
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiForSmallProject.props
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiForSmallProject.props
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.RazorTargetAssemblyInfo.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.csproj.CopyComplete
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\refint\ApiForSmallProject.dll
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.pdb
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ApiForSmallProject.genruntimeconfig.cache
+D:\all project\ApiforSmallProject\ApiForSmallProject\obj\Debug\net5.0\ref\ApiForSmallProject.dll
